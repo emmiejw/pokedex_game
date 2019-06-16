@@ -1,0 +1,14 @@
+.pokedex-cards {
+    display: flex;
+    justify-content:  space-evenly;
+    flex-wrap: wrap;
+}
+
+h2, h4{
+    color: yellow;
+}
+
+h2{
+    font-size: xx-large;
+    font-weight: bolder;
+}

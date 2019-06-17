@@ -4,11 +4,10 @@
     flex-wrap: wrap;
 }
 
-h2, h4{
-    color: yellow;
+.Pokedex-winner {
+	color: #4caf50;
 }
 
-h2{
-    font-size: xx-large;
-    font-weight: bolder;
+.Pokedex-loser {
+	color: white;
 }
